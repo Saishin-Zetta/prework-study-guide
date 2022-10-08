@@ -1,7 +1,4 @@
-# <Prework Study Guide Project>
-a study guide for course pre-work
-
-<Study Guide Project>
+# Prework Study Guide Project
 
 ## Description
 
